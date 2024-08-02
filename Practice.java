@@ -1,6 +1,8 @@
 public class Practice {
     public static void main (String[]args) {
-        //Display simple text
-        System.out.println("Hello World");
+        
+        System.out.println("Hello Veya");
+
+        System.out.println("Good Morning, Starshine");
     }
 }
